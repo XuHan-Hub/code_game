@@ -39,4 +39,4 @@ class Solution:
         return node
 
 if __name__ == '__main__':
-    str = "214"
+    str = "214 "
